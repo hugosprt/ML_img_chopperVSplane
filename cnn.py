@@ -12,8 +12,8 @@ train_chopper_dir = os.path.join(train_dir, 'chopper')
 
 # Paramètres de prétraitement et d'entraînement
 batch_size = 32
-img_height = 360
-img_width = 360
+img_height = 180
+img_width = 180
 
 # Préparation des données
 train_ds = tf.keras.preprocessing.image_dataset_from_directory(
