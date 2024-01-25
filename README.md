@@ -2,6 +2,7 @@
 Projet realise grace a la video de defend intelligence sur le CNN.
 
 Ce projet consiste en la création d'un modèle de deep learning pour classer des images en deux catégories : avions et hélicoptères. Le modèle est construit à l'aide de TensorFlow et Keras, et il est capable de prédire si une image donnée représente un avion ou un hélicoptère avec une certaine confiance.
+Ajouter plus d'image pour un resultat plus juste et plus precis.
 
 ## Contenu
 
